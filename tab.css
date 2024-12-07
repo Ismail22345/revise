@@ -1,0 +1,15 @@
+@media (max-width: 769px) {
+    header {
+        padding: 2em ;
+    }
+    .menu {
+        display: list-item;
+    }
+    .links {
+        display: none;
+    }
+    .login-sign {
+        display: none;
+    }
+    
+}
